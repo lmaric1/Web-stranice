@@ -1,0 +1,22 @@
+header{
+    margin-bottom:  2.5rem;
+    font-size: larger;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(185, 189, 247);
+    width: 100%;
+}
+img{
+    height: 400px;
+    width: 300px;
+    float: right;
+    margin-left: 10rem;
+    
+}
+body{
+    padding-left: 5rem;
+    padding-right: 5rem;
+    background-color: cyan;
+}
+iframe{
+    margin-top: 3.5rem;
+}

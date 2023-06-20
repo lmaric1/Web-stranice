@@ -1,0 +1,100 @@
+
+body{
+    background-image: url(../map.png); /*https://www.google.com/url?sa=i&url=https%3A%2F%2Fworldmapwithcountries.net%2F2018%2F07%2F13%2Fprintable%2F&psig=AOvVaw1TNVI8DmdUlGd7GS0KrbKu&ust=1642267959862000&source=images&cd=vfe&ved=0CAwQjhxqFwoTCPDAsYbjsfUCFQAAAAAdAAAAABAw*/
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
+}
+
+#cro{
+
+    font-size: 10px;
+}
+
+#isl{
+    font-size: 10px;
+} 
+#egy{
+    font-size: 10px;
+
+} 
+#jap{
+    font-size: 10px;
+
+} 
+#haw{
+    font-size: 10px;
+
+} 
+#os{
+    font-size: 10px;
+
+} 
+ 
+#p1{
+    display: none;
+    font-size: 14px;
+
+   
+}
+
+#p2{
+    display: none;
+    font-size: 14px;
+
+   
+}
+#p3{
+    display: none;
+    font-size: 14px;
+
+   
+}
+#p4{
+    display: none;
+    font-size: 14px;
+
+   
+}
+
+p{
+  
+    font-size: 14px;
+    background-color: blanchedalmond;
+}
+   
+
+#p6{
+    display: none;
+    font-size: 14px;
+
+   
+}
+#p7{
+    display: none;
+    font-size: 14px;
+
+   
+}
+
+#p8{
+    display: none;
+    font-size: 14px;
+
+   
+}
+#p10{
+    display: none;
+    font-size: 14px;
+
+   
+}
+#iks{
+    font-size: 14px;
+}
+h1{
+    text-align: center;
+    margin-bottom: 100px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
